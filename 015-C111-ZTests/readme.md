@@ -1,4 +1,4 @@
-# Bell Curve
+# Z Tests
 
 ### This is a project related to data analysis.
 
@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode`
-#### `python 012-C108-BellCurve/__main__.py`
+#### `python 015-C111-ZTests/__main__.py`
